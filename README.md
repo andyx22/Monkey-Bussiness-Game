@@ -4,3 +4,4 @@ Python game in tkinter
 A tycoon game where the player buys assets which generate money over time. Once a certian amount is reached, the game ends. 
 # Example
 Image not working...
+look in repo for image.jpg
